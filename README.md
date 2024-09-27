@@ -29,7 +29,7 @@ FIFO Structure: The order of processing follows a strict sequence, where element
 ```cpp
 //RIDDHI LOKHANDE
 //23070123107
-//EXP 18
+//EXP 18 A
 //ENTCB2
 #include <iostream>
 using namespace std;
