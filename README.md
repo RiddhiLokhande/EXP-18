@@ -17,10 +17,15 @@ FIFO Structure: The order of processing follows a strict sequence, where element
 ##### Basic Operations:
 
 -Enqueue: Add an element to the back of the queue.
+
 -Dequeue: Remove the element from the front of the queue.
+
 -Front: Access the element at the front without removing it.
+
 -Size: Get the number of elements currently in the queue.
--Empty: Check if the queue has no elements.</li>
+
+-Empty: Check if the queue has no elements.
+</li>
 </ul>
 
 #### Code 
