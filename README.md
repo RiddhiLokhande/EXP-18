@@ -1,4 +1,4 @@
-# EXP-18
+# EXP-19
 
 
 #### Aim 
@@ -34,7 +34,7 @@ FIFO Structure: The order of processing follows a strict sequence, where element
 ```cpp
 //RIDDHI LOKHANDE
 //23070123107
-//EXP 18 A
+//EXP 19 A
 //ENTCB2
 #include <iostream>
 using namespace std;
@@ -106,7 +106,7 @@ int main() {
 ```cpp
 //RIDDHI LOKHANDE
 //23070123107
-//EXP 18 B
+//EXP 19 B
 //ENTC B2
 #include <iostream>
 using namespace std;
